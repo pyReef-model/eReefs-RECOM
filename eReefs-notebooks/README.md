@@ -12,7 +12,7 @@
 
 ![Zoom](figs/CapricornCurrent.gif?raw=true)
 
-- Querying sites
+- Querying sites (from Mark Hammerton @ [AIMS](https://github.com/aims-ks/ereefs-python-scripts))
 
 ![site](figs/im2.png?raw=true)
 

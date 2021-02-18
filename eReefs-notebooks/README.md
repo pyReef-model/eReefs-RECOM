@@ -6,17 +6,29 @@
 
 - entire GBR
 
-![GBR](https://github.com/pyReef-model/eReefs-RECOM/blob/master/eReefs-RECOM/eReefs-notebooks/figs/im1.png?raw=true)
+![GBR](figs/im1.png?raw=true)
 
 - focussing on specific study area
 
+![Zoom](figs/CapricornCurrent.gif?raw=true)
+
 - Querying sites
 
+![site](figs/im2.png?raw=true)
+
+![2sites](figs/im4.png?raw=true)
 
 ### Cross-sections visualisation
 
 - 4 km resolution
 
+![Zoom](figs/Lat11_vel.gif?raw=true)
+
 - 1 km resolution
 
+![Zoom](figs/1km_Lat11_vel.gif?raw=true)
+
+### Climate variability
+
+![site](figs/im3.png?raw=true)
 

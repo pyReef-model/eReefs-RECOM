@@ -7,7 +7,7 @@
 - entire GBR
 
 ![GBR](figs/im1.png?raw=true)
-<img src="figs/GBRalk.gif?raw=true" alt="bio" width="380"/>
+<img src="figs/GBRalk.gif?raw=true" alt="bio" width="350"/>
 
 - focussing on specific study area
 
@@ -17,7 +17,7 @@
 
 ![site](figs/im2.png?raw=true)
 
-<img src="figs/im4.png?raw=true" alt="2sites" width="700"/>
+<img src="figs/im4.png?raw=true" alt="2sites" width="500"/>
 
 ### Cross-sections visualisation
 

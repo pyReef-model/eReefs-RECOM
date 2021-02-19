@@ -7,17 +7,17 @@
 - entire GBR
 
 ![GBR](figs/im1.png?raw=true)
-<img src="figs/GBRalk.gif?raw=true" alt="drawing" width="380"/>
+<img src="figs/GBRalk.gif?raw=true" alt="bio" width="380"/>
 
 - focussing on specific study area
 
-<img src="figs/CapricornCurrent.gif?raw=true" alt="drawing" width="700"/>
+<img src="figs/CapricornCurrent.gif?raw=true" alt="study" width="700"/>
 
 - Querying sites (from Mark Hammerton @ [AIMS](https://github.com/aims-ks/ereefs-python-scripts))
 
 ![site](figs/im2.png?raw=true)
 
-![2sites](figs/im4.png?raw=true)
+<img src="figs/im4.png?raw=true" alt="2sites" width="700"/>
 
 ### Cross-sections visualisation
 

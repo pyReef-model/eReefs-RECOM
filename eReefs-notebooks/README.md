@@ -7,11 +7,11 @@
 - entire GBR
 
 ![GBR](figs/im1.png?raw=true)
-<img src="figs/GBRalk.gif?raw=true" alt="drawing" width="400"/>
+<img src="figs/GBRalk.gif?raw=true" alt="drawing" width="380"/>
 
 - focussing on specific study area
 
-<img src="figs/CapricornCurrent.gif?raw=true" alt="drawing" width="500"/>
+<img src="figs/CapricornCurrent.gif?raw=true" alt="drawing" width="700"/>
 
 - Querying sites (from Mark Hammerton @ [AIMS](https://github.com/aims-ks/ereefs-python-scripts))
 
